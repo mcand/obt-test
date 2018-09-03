@@ -1,7 +1,9 @@
 # Runnning
-clone the repository and run the files in example.
+Clone the repository and run the files in example.
 
-./bin/obt examples/valid-2.txt
+	./bin/obt examples/valid-2.txt
+
+You can create files for your own tasks as well ;)
 
 # Intro
 The purpose of this exercise is to see how you approach a problem, and how you solve it. We’re interested to see how you structure your Ruby code, your command of the language and good design and testing principles, bear this in mind throughout.
