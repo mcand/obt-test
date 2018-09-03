@@ -1,0 +1,2 @@
+#!/bin/sh
+ruby lib/task_simulator.rb "$1"
